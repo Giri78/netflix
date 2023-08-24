@@ -1,0 +1,50 @@
+*{
+    margin-top: 5px;
+}
+
+.footerclass{
+    height: 500px;
+    width: auto;
+    background-color:black;
+    padding: 100px;
+    color: white;
+    font-size: 20px;
+}
+
+.lists{
+    display: flex;
+}
+
+.list{
+    margin-right: 50px;
+    text-align: start;
+    margin: 30px;
+    list-style: none;
+    color: white;
+}
+
+
+.list-item{
+    color: white;
+    margin-right: 100px;
+}
+
+
+
+.lang{
+    background-color: black;
+   
+}
+.im{
+    height: 20px;
+    width: 20px;
+    margin-bottom: 10px;
+    
+    background-color: black;
+}
+
+
+.option{
+    background-color: transparent;
+    color: white;
+}
